@@ -1,3 +1,6 @@
+open with .sln file( require to install visaul studio)
+
 Attack 'z'
-Ult 'x'
+Ult 'x' -need full gage to use it
+
 move with arrow key
